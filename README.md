@@ -16,7 +16,7 @@ An AI copilot that generates a sourced prospect brief in minutes, with source ci
 - Set a **≥95% groundedness launch gate**: every AI claim must be backed by a source
 
 ## Artifacts
-📄 **[Full Capstone Report (PDF)](RivalMind_Capstone_Report.pdf)**, which includes:
+📄 **[Full Capstone Report (PDF)](RIVALMIND.pdf)**, which includes:
 - User research, personas and user journey (Sections 4–6)
 - 15 user stories (Section 8)
 - RICE and MoSCoW prioritization and MVP definition (Sections 11–12)
